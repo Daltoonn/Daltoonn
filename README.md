@@ -4,7 +4,7 @@ Hi, I'm Dalton Oyama Morais, 22 years old, currently living in Brazil!
 
 Currently, I am a graduate student in Information systems at Ouro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
-Im Full Stack Develop and analist
+Full Stack Develop and analist
 
 ## 👨‍💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
