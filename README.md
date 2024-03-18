@@ -4,7 +4,7 @@ Olá, sou Dalton Oyama Morais, 22 anos, atualmente moro no Brasil!
 
 Atualmente sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP), em João Monlevade, Minas Gerais, com previsão de conclusão do curso em dezembro de 2024
 
-Atualmente trabalho como web scraping, porém
+Atualmente trabalho com web scraping, porém
 gosto bastante de programação em geral sempre aberto a novas novidades, estudo e continuo estudando todas as áreas de programação seja web, mobile, jogos, robótica e segurança e auditória
 
 ## 👨‍💻 Linguagens mais usadas
