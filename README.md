@@ -7,8 +7,6 @@ Atualmente sou estudante de Sistemas de Informação na Universidade Federal de 
 Atualmente trabalho com web scraping e faço TCC sobre desenvolvimento em jogos,
 gosto bastante de programação em geral, estou sempre aberto a novas novidades, estudo e continuo estudando todas as áreas de programação seja web, mobile, jogos, robótica e segurança e auditória
 
-![](https://komarev.com/ghpvc/?username=Daltoonn&color=blue&style=for-the-badge)
-
 
 ## 👨‍💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
