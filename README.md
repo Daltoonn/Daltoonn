@@ -1,4 +1,4 @@
-## 👨🏻‍💻 About Me  
+## 👨🏻‍💻 Sobre min 
 
 Olá, sou Dalton Oyama Morais, 22 anos, atualmente moro no Brasil!
 
@@ -7,11 +7,11 @@ Atualmente sou estudante de Sistemas de Informação na Universidade Federal de 
 Atualmente trabalho como web scraping, porém
 Gosto bastante de programação em geral sempre aberto a novas novidades, estudo e continuo estudando todas as áreas de programação seja web, jogos, robótica e segurança e auditórios
 
-## 👨‍💻 Most Used Languages
+## 👨‍💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
 
 
-<h2>🛠&nbsp;Language Worked</h2>
+<h2>🛠&nbsp;Linguagens Aprendidas</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-CS" height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Mat-CC" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,7 +26,7 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
 
 </div>
 
-<div style="display: inline_block"> <h2>Frameworks and Libraries</h2>
+<div style="display: inline_block"> <h2>Frameworks e Bibliotecas</h2>
 
   <img align="center" alt="Mat-RJS" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -39,7 +39,7 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
 
 </div>
 
-<div style="display: inline_block"><br>  <h2>Tools Learned</h2>
+<div style="display: inline_block"><br>  <h2>Ferramentas Aprendidas</h2>
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Mat-UNI" height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Mat-MYL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -50,11 +50,11 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
 </div>  
 <br>
 
- ## Contact Me 
+ ## MEUS CONTATOS
  
  <div> 
     <a href="https://www.instagram.com/daltiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "dalton.oyama@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <h1>Email:  Dalton.oyama@hotmail.com</h1>
   </div>
   <br>
   <br>
