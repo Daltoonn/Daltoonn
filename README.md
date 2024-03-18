@@ -11,7 +11,7 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
 
 
-<h2>🛠&nbsp;Linguagens Aprendidas</h2>
+<h2>🛠&nbsp;Linguagens aprendidas</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-CS" height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Mat-CC" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,7 +39,7 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
 
 </div>
 
-<div style="display: inline_block"><br>  <h2>Ferramentas Aprendidas</h2>
+<div style="display: inline_block"><br>  <h2>Ferramentas aprendidas</h2>
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Mat-UNI" height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Mat-MYL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -54,7 +54,7 @@ Gosto bastante de programação em geral sempre aberto a novas novidades, estudo
  
  <div> 
     <a href="https://www.instagram.com/daltiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <h1>Email:  Dalton.oyama@hotmail.com</h1>
+    <h3>Email:  Dalton.oyama@hotmail.com</h3>
   </div>
   <br>
   <br>
