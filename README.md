@@ -6,10 +6,8 @@ Currently, I am a graduate student in Information systems at Ouro Preto Federal 
 
 Im Full Stack Develop and analist
 
-![](https://komarev.com/ghpvc/?username=matheuslopesm&color=blue&style=for-the-badge)
 
-
-<h2>🛠&nbsp;Techs</h2>
+<h2>🛠&nbsp;Language Worked</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-CS" height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Mat-CC" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -21,15 +19,9 @@ Im Full Stack Develop and analist
   <img align="center" alt="Mat-CSS" height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Mat-Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
-
-
-
-
-
-  
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">Frameworks<br>
   <img align="center" alt="Mat-RJS" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Mat-PGSQL" height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
