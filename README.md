@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 About Me  
 
-Hi, I'm Dalton Oyama Morais, 23 years old, currently living in Brazil!
+Hi, I'm Dalton Oyama Morais, 22 years old, currently living in Brazil!
 
 Currently, I am a graduate student in Information systems at Ouro Preto Federal University (UFOP, Universidade Federal de Ouro Preto) in João Monlevade, Minas Gerais.
 
