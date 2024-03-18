@@ -35,10 +35,13 @@ Im Full Stack Develop and analist
 
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mat-INS" height="30" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  <img align="center" alt="Mat-VS" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<div style="display: inline_block"><br>  <h2>Tools Learned</h2>
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Mat-UNI" height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img align="center" alt="Mat-MYL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Mat-SQL" height="30" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+
 
 </div>  
 <br>
