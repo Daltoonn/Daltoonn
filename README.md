@@ -6,6 +6,9 @@ Currently, I am a graduate student in Information systems at Ouro Preto Federal 
 
 Im Full Stack Develop and analist
 
+## 👨‍💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
+
 
 <h2>🛠&nbsp;Language Worked</h2>
 <div style="display: inline_block"><br>
