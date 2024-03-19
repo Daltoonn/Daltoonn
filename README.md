@@ -57,7 +57,7 @@ gosto bastante de programação em geral, estou sempre aberto a novas novidades,
     <a href="https://www.instagram.com/daltiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/dalton-oyama-morais-9745842bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-    <h3>Email:  Dalton.oyama@hotmail.com</h3>
+  Email:  Dalton.oyama@hotmail.com
   </div>
   <br>
   <br>
