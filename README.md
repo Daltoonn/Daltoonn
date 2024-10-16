@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre min 
 
-Olá, sou Dalton, tenho 22 anos, atualmente moro no Brasil!
+Olá, sou Dalton, tenho 23 anos, atualmente moro no Brasil!
 
 Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP), em João Monlevade, Minas Gerais, com previsão de conclusão do curso em dezembro de 2024
 
