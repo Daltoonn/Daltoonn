@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Sobre min 
+## 👨🏻‍💻 Sobre mim
 
 Olá, sou Dalton, tenho 23 anos, atualmente moro no Brasil!
 
@@ -49,7 +49,7 @@ Atualmente, faço TCC com o tema desenvolvimento em jogos, gosto bastante de pro
 </div>  
 <br>
 
- ## MEUS CONTATOS
+ ## Meus Contatos
  
  <div> 
     <a href="https://www.instagram.com/daltiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
