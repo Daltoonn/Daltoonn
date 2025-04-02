@@ -1,10 +1,10 @@
 ## 👨🏻‍💻 Sobre mim
 
-Olá, sou Dalton, tenho 23 anos, atualmente moro no Brasil!
+Olá, sou Dalton, tenho 23 anos, atualmente moro no Brasil
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP), em João Monlevade, Minas Gerais, com previsão de conclusão do curso em dezembro de 2024
+Sou formado em Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP)
 
-Atualmente, faço TCC com o tema desenvolvimento em jogos, gosto bastante de programação em geral, estou sempre aberto a novidades, estudo e contínuo estudando todas as áreas de programação seja web, mobile, jogos, robótica, segurança e auditória
+Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral, estou sempre aberto a novidades, estudo e contínuo estudando todas as áreas de programação seja web, mobile, jogos, robótica, segurança e auditória
 
 ## 👨‍💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
