@@ -38,7 +38,7 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
 
 </div>
 
-<div style="display: inline_block"><br>  <h2>Ferramentas aprendidas</h2>
+<div style="display: inline_block"><br>  <h2>Ferramentas</h2>
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Mat-UNI" height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Mat-MYL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
