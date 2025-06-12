@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre mim
 
-Olá, sou Dalton, tenho 23 anos, atualmente moro no Brasil
+Olá, sou Dalton, tenho 24 anos, atualmente moro no Brasil
 
 Sou formado em Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP)
 
