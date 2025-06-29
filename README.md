@@ -3,7 +3,6 @@
 Olá, sou Dalton, tenho 24 anos, atualmente moro no Brasil
 
 Sou formado em Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP)
-
 Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral, estou sempre aberto a novidades, estudo e contínuo estudando todas as áreas de programação seja web, mobile, jogos, robótica, segurança e auditória
 
 ## 👨‍💻 Linguagens mais usadas
