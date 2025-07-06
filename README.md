@@ -5,11 +5,10 @@ Olá, sou Dalton, tenho 24 anos, atualmente moro no Brasil
 Sou formado em Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP)
 Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral, estou sempre aberto a novidades, estudo e contínuo estudando todas as áreas de programação seja web, mobile, jogos, robótica, segurança e auditória
 
-## 👨‍💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daltoonn&layout=compact)
 
 
-<h2>🛠&nbsp;Linguagens aprendidas</h2>
+<h2>🛠&nbsp;Linguagens </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mat-CS" height="30" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Mat-CC" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
