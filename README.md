@@ -20,7 +20,6 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
   <img align="center" alt="Mat-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Mat-HTML" height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Mat-CSS" height="30" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Mat-Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Mat-Dart" height="30" src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
 
 
@@ -28,6 +27,7 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
 
 <div style="display: inline_block"> <h2>Frameworks e Bibliotecas</h2>
 
+  <img align="center" alt="Mat-Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Mat-RJS" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Mat-TAI" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -35,6 +35,7 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
   <img align="center" alt="Mat-FLA" height="30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="Mat-NET" height="30" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img align="center" alt="Mat-FLU" height="30" src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+
 
 
 
