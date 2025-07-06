@@ -27,7 +27,6 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
 
 <div style="display: inline_block"> <h2>Frameworks e Bibliotecas</h2>
 
-  <img align="center" alt="Mat-Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Mat-RJS" height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Mat-NJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Mat-TAI" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -46,6 +45,7 @@ Meu TCC tema foi desenvolvimento em jogos, gosto bastante de tecnologia em geral
 </div>
 
 <div style="display: inline_block"><br>  <h2>Ferramentas</h2>
+  <img align="center" alt="Mat-Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Mat-FIG" height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Mat-UNI" height="30" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Mat-MYL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
